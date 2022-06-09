@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there!
 
-<!--
-**vegardlekve/vegardlekve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Vegard and I'm curruntly studying to become a web developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through my studies in front end design at Noroff, I'm learning how plan, design and program web sites.
+There has been a steep learning curve, since I had no knowledge about programming before. 
+In my first year at Noroff, we had the following courses/projects:
+
+- Design 1 
+- Web	and	Communications	Technology
+- HTML and CSS
+- Project	Methodology
+- Semester	Project	1
+- Programming	Foundations
+- JavaScript	1
+- Interaction	Design
+- Content	Management	Systems
+- Exam	Project		1
+- Portfolio	1
+
+Feel free to look through my projects. 
