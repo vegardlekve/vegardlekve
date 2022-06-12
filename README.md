@@ -20,3 +20,5 @@ In my first year at Noroff, we had the following courses/projects:
 - Portfolio	1
 
 Feel free to look through my projects. 
+
+Here is my [Portfolio](https://vegard-portfolio.netlify.app/)
