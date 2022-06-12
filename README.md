@@ -4,7 +4,7 @@
 
 
 Through my studies in front end design at Noroff, I'm learning how plan, design and program web sites.
-There has been a steep learning curve, since I had no knowledge about programming before. 
+It has been a steep learning curve, since I had no knowledge about programming before. 
 In my first year at Noroff, we had the following courses/projects:
 
 - Design 1 
